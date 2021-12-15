@@ -101,11 +101,11 @@ export default class SimpleMDEEditor extends React.PureComponent<
   }
 
   // image upload function
-  imageUploadFunction = (file: File, onSuccess: (url: string) => void, onError: (error: string) => void) => {
+  imageUploadFunction = (file: File, onSuccess: (url: string, fileName: string) => void, onError: (error: string) => void) => {
     const imageUpload = this.props.options?.imageUploadFunction
     if (imageUpload) {
-        const _onSuccess = (url: string) => {
-            onSuccess(url)
+        const _onSuccess = (url: string, fileName: string) => {
+            onSuccess(url, fileName)
             // update value when success
             this.eventWrapper()
         }
