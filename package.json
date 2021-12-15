@@ -3,7 +3,7 @@
   "homepage": "http://www.benrlodge.com",
   "version": "4.1.3",
   "author": "Ben Lodge",
-  "repository": "github:SquadcastHub/easy-markdown-editor",
+  "repository": "github:SquadcastHub/react-simplemde-editor",
   "contributors": [
     {
       "name": "Andrii Los",
