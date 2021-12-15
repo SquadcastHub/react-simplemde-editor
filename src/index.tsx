@@ -1,5 +1,5 @@
 import * as React from "react";
-import * as SimpleMDE from "easymde";
+import * as SimpleMDE from "@SquadcastHub/easymde";
 import { KeyMap, DOMEvent, Editor } from "codemirror";
 
 const noop = () => {};
@@ -114,7 +114,7 @@ export default class SimpleMDEEditor extends React.PureComponent<
 }
 
   createEditor = () => {
-    const SimpleMDE = require("easymde");
+    const SimpleMDE = require("@SquadcastHub/easymde");
     const initialOptions = {
       element: document.getElementById(this.id),
       initialValue: this.props.value

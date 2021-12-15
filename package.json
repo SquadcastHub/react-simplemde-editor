@@ -1,9 +1,9 @@
 {
-  "name": "react-simplemde-editor",
+  "name": "@SquadcastHub/react-simplemde-editor",
   "homepage": "http://www.benrlodge.com",
-  "repository": "https://github.com/RIP21/react-simplemde-editor",
   "version": "4.1.3",
   "author": "Ben Lodge",
+  "repository": "github:SquadcastHub/easy-markdown-editor",
   "contributors": [
     {
       "name": "Andrii Los",
@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/codemirror": "^0.0.88",
     "@types/marked": "^0.7.4",
-    "easymde": "^2.10.1"
+    "@SquadcastHub/easymde": "2.15.0"
   },
   "peerDependencies": {
     "react": ">=15",
