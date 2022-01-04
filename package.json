@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/codemirror": "^0.0.88",
     "@types/marked": "^0.7.4",
-    "@SquadcastHub/easymde": "2.15.0"
+    "@SquadcastHub/easymde": "2.16.0"
   },
   "peerDependencies": {
     "react": ">=15",
