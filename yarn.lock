@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@SquadcastHub/easymde@2.15.0":
-  version "2.15.0"
-  resolved "https://npm.pkg.github.com/download/@SquadcastHub/easymde/2.15.0/2c9678cff42b1286218b14b83b29430cd917b86bf4fd5c03aa5a600240ee652c#4022307bda0953b41621c7913d74af4abd13014c"
-  integrity sha512-/hvBeEkwLwo7qHlJOQeKOcLHCOlLfeQ6fCzPCgf9zPQRoGv1GLzLL4F+RqMJWZW+4UmWrOYakIVIBPPdUfWPiw==
+"@SquadcastHub/easymde@2.16.0":
+  version "2.16.0"
+  resolved "https://npm.pkg.github.com/download/@SquadcastHub/easymde/2.16.0/71684d00e8e8616c151740236f9b0a1a074dbd74f013f0a4871f98afd4b6da62#712e0f2ec637794f896165b261509b37cc476a8f"
+  integrity sha512-i7T9z+r2iN/RyKDaLO1KqIJ3Mlx/Ue8MnNv6Il1MuhcmQeKjYeL91RjNUcF5Ckvq18qsF3lEEFg0ctoup/Y+Xw==
   dependencies:
     "@types/codemirror" "^5.60.4"
     "@types/marked" "^3.0.1"
