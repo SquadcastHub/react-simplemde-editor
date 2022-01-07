@@ -20,9 +20,9 @@
     "src"
   ],
   "dependencies": {
+    "@SquadcastHub/easymde": "2.17.0",
     "@types/codemirror": "^0.0.88",
-    "@types/marked": "^0.7.4",
-    "@SquadcastHub/easymde": "2.15.0"
+    "@types/marked": "^0.7.4"
   },
   "peerDependencies": {
     "react": ">=15",
