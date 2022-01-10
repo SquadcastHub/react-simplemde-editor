@@ -20,7 +20,7 @@
     "src"
   ],
   "dependencies": {
-    "@SquadcastHub/easymde": "2.17.2",
+    "@SquadcastHub/easymde": "2.17.3",
     "@types/codemirror": "^0.0.88",
     "@types/marked": "^0.7.4"
   },
