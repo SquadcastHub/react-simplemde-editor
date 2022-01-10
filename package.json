@@ -1,7 +1,7 @@
 {
   "name": "@SquadcastHub/react-simplemde-editor",
   "homepage": "http://www.benrlodge.com",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "author": "Ben Lodge",
   "repository": "github:SquadcastHub/react-simplemde-editor",
   "contributors": [
@@ -20,7 +20,7 @@
     "src"
   ],
   "dependencies": {
-    "@SquadcastHub/easymde": "2.17.0",
+    "@SquadcastHub/easymde": "2.17.1",
     "@types/codemirror": "^0.0.88",
     "@types/marked": "^0.7.4"
   },
